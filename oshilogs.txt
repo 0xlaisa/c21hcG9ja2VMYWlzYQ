@@ -1,0 +1,101 @@
+c[36m====================================================[0m
+[36m   ___  ____  _   _ ___   _        _    ____  ____   [0m
+[36m  / _ \/ ___|| | | |_ _| | |      / \  | __ )| ___|  [0m
+[36m | | | \___ \| |_| || |  | |     / _ \ |  _ \|___ \  [0m
+[36m | |_| |___) |  _  || |  | |___ / ___ \| |_) |___) | [0m
+[36m  \___/|____/|_| |_|___| |_____/_/   \_\____/|____/  [0m
+[36m====================================================[0m
+
+delay/task: 10s | limit: semua
+akun source: /home/runner/work/c21hcG9ja2VMYWlzYQ/c21hcG9ja2VMYWlzYQ/account.json | jumlah: 1
+mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch Anime, Read Article, Quiz Anime, Music Missions, Claim Missions, Check Eligibility, Read Manga, Get Gift, Setup Profile, Bind Wallet SEQUENSIAL
+
+
+===== [1/1] Laisa =====
+[1]Laisa       |10:09:24 | 13-10-2026| login OK @laisawilona | score=1010 rank=6222
+[1]Laisa       |10:09:24 | 13-10-2026| serverTime=2026-10-13T10:09:24.000Z local=2026-10-13T10:09:24.261Z
+--> [1]Laisa menjalankan: Claim Daily
+[1]Laisa       |10:09:25 | 13-10-2026| daily: OK +10 poin score=1020
+--> [1]Laisa menjalankan: Auto All Tasks (13 pending)
+[1]Laisa       |10:09:29 | 13-10-2026| [1/13] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/laisawilona/status/2109949348329027598
+[1]Laisa       |10:09:29 | 13-10-2026| delay 10s...
+[1]Laisa       |10:09:42 | 13-10-2026| [2/13] c0692622 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/laisawilona/status/2109949228021838880
+[1]Laisa       |10:09:42 | 13-10-2026| delay 10s...
+[1]Laisa       |10:09:54 | 13-10-2026| [3/13] b1aa7a09 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/laisawilona/status/2109949250470794679
+[1]Laisa       |10:09:54 | 13-10-2026| delay 10s...
+[1]Laisa       |10:10:08 | 13-10-2026| [4/13] c3c2f662 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/laisawilona/status/2109949255448524468
+[1]Laisa       |10:10:08 | 13-10-2026| delay 10s...
+[1]Laisa       |10:10:21 | 13-10-2026| [5/13] 52236caa (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/laisawilona/status/2109949434958545592
+[1]Laisa       |10:10:21 | 13-10-2026| delay 10s...
+[1]Laisa       |10:10:33 | 13-10-2026| [6/13] fa907706 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/laisawilona/status/2109949489845715009
+[1]Laisa       |10:10:33 | 13-10-2026| delay 10s...
+[1]Laisa       |10:10:45 | 13-10-2026| [7/13] f3c57454 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Laisa       |10:10:45 | 13-10-2026| delay 10s...
+[1]Laisa       |10:10:58 | 13-10-2026| [8/13] 446fd4f4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/laisawilona/status/2109949458222920529
+[1]Laisa       |10:10:58 | 13-10-2026| delay 10s...
+[1]Laisa       |10:11:12 | 13-10-2026| [9/13] cbf91691 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/laisawilona/status/2109949480110115023
+[1]Laisa       |10:11:12 | 13-10-2026| delay 10s...
+[1]Laisa       |10:11:24 | 13-10-2026| [10/13] 484fa559 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/laisawilona/status/2109949733551438549
+[1]Laisa       |10:11:24 | 13-10-2026| delay 10s...
+[1]Laisa       |10:11:36 | 13-10-2026| [11/13] 7411ef73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/laisawilona/status/2109949611704700571
+[1]Laisa       |10:11:36 | 13-10-2026| delay 10s...
+[1]Laisa       |10:11:48 | 13-10-2026| [12/13] 65e97767 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Laisa       |10:11:48 | 13-10-2026| delay 10s...
+[1]Laisa       |10:12:00 | 13-10-2026| [13/13] 34f1e829 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Laisa       |10:12:00 | 13-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Laisa       |10:12:02 | 13-10-2026| [1/1] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/laisawilona/status/2109949648030552131
+--> [1]Laisa menjalankan: Watch Anime
+[1]Laisa       |10:12:03 | 13-10-2026| watch: 3 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse
+[1]Laisa       |10:12:03 | 13-10-2026| watch [1/3] farming oshi-captains-hat...
+  video baru dikenal: oshi-captains-hat (katalog +4)
+[1]Laisa       |10:12:05 | 13-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
+[1]Laisa       |10:12:10 | 13-10-2026| watch [2/3] farming oshi-rainbow-star...
+[1]Laisa       |10:12:12 | 13-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
+[1]Laisa       |10:12:17 | 13-10-2026| watch [3/3] farming oshi-rainbow-lighthouse...
+[1]Laisa       |10:12:19 | 13-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
+--> [1]Laisa menjalankan: Read Article
+[1]Laisa       |10:12:20 | 13-10-2026| news: 24/24 artikel selesai dibaca
+[1]Laisa       |10:12:21 | 13-10-2026| mint eligibility: {"userId":"1637471079836053505","youtube":{"url":"https://www.youtube.com/@laisawilona","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"automaticR
+[1]Laisa       |10:12:21 | 13-10-2026| news: semua artikel sudah dibaca
+--> [1]Laisa menjalankan: Quiz Anime
+[1]Laisa       |10:12:22 | 13-10-2026| quiz ep1: sudah dijawab
+[1]Laisa       |10:12:22 | 13-10-2026| quiz ep2: sudah dijawab
+[1]Laisa       |10:12:22 | 13-10-2026| quiz ep3: sudah dijawab
+[1]Laisa       |10:12:22 | 13-10-2026| quiz ep4: sudah dijawab
+[1]Laisa       |10:12:22 | 13-10-2026| quiz ep5: sudah dijawab
+[1]Laisa       |10:12:22 | 13-10-2026| quiz ep6: sudah dijawab
+--> [1]Laisa menjalankan: Music Missions (realtime, bisa lama!)
+[1]Laisa       |10:12:24 | 13-10-2026| music: kedua misi sudah tercapai, stop
+[1]Laisa       |10:12:25 | 13-10-2026| mission music-listens-10: sudah diklaim
+[1]Laisa       |10:12:25 | 13-10-2026| mission music-minutes-30: sudah diklaim
+[1]Laisa       |10:12:25 | 13-10-2026| mission anime-completed-3: sudah diklaim
+--> [1]Laisa menjalankan: Claim Missions
+[1]Laisa       |10:12:25 | 13-10-2026| mission music-listens-10: sudah diklaim
+[1]Laisa       |10:12:25 | 13-10-2026| mission music-minutes-30: sudah diklaim
+[1]Laisa       |10:12:25 | 13-10-2026| mission anime-completed-3: sudah diklaim
+--> [1]Laisa menjalankan: Check Eligibility
+
+--- eligibility [1]Laisa ---
+  @laisawilona | score=1010 rank=6222
+  tasks    [#################---] 66/79
+  mission  music-listens-10:      claimed
+  mission  music-minutes-30:      claimed
+  mission  anime-completed-3:     claimed
+  quiz     [####################] 6/6
+  watch    [####################] 18/17
+  music    [####################] 11/11
+  artikel  [####################] 24/24
+  mint: requirementsMet=false mintOpen=false discord=true
+
+--> [1]Laisa menjalankan: Read Manga
+[1]Laisa       |10:12:30 | 13-10-2026| manga: 0/13 chapter belum completed
+--> [1]Laisa menjalankan: Get Gift
+[1]Laisa       |10:12:30 | 13-10-2026| gift: 0/3 belum diterima
+--> [1]Laisa menjalankan: Setup Profile
+[1]Laisa       |10:12:31 | 13-10-2026| profile: bio="https://x.com/laisawilona" fav=yuki rewardAt=1791682152
+[1]Laisa       |10:12:31 | 13-10-2026| profile: bonus sudah diklaim, skip
+--> [1]Laisa menjalankan: Bind Wallet
+[1]Laisa       |10:12:31 | 13-10-2026| wallet: sudah terikat Ed1RubDvTq... (solana)
+
+== RINGKASAN ==
+- Laisa: daily=claimed | tasks OK 14/14 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/3 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/3 diterima | profile - | wallet bound | mint req=false open=false
