@@ -12,37 +12,35 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Laisa =====
-[1]Laisa       |13:36:36 | 09-11-2026| login OK @laisawilona | score=3000 rank=2596
-[1]Laisa       |13:36:36 | 09-11-2026| serverTime=2026-11-09T13:36:35.000Z local=2026-11-09T13:36:36.337Z
+[1]Laisa       |13:14:35 | 10-11-2026| login OK @laisawilona | score=3030 rank=2569
+[1]Laisa       |13:14:35 | 10-11-2026| serverTime=2026-11-10T13:14:35.000Z local=2026-11-10T13:14:35.179Z
 --> [1]Laisa menjalankan: Claim Daily
-[1]Laisa       |13:36:37 | 09-11-2026| daily: OK +10 poin score=3010
---> [1]Laisa menjalankan: Auto All Tasks (2 pending)
-[1]Laisa       |13:36:39 | 09-11-2026| [1/2] 886201b6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"886201b6-c4f4-4684-9e4d-0ac33c5727ca","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211970067089088 | proof=https://x.com/laisawilona/status/2119785797461728995
-[1]Laisa       |13:36:39 | 09-11-2026| delay 10s...
-[1]Laisa       |13:36:51 | 09-11-2026| [2/2] 205b2462 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"886201b6-c4f4-4684-9e4d-0ac33c5727ca","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211970067089088 | proof=https://x.com/laisawilona/status/2119786001442961386
-[1]Laisa       |13:36:51 | 09-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Laisa       |13:36:52 | 09-11-2026| [1/1] 886201b6 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"886201b6-c4f4-4684-9e4d-0ac33c5727ca","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2119700670890889 | proof=https://x.com/laisawilona/status/2119785763710481629
+[1]Laisa       |13:14:37 | 10-11-2026| daily: OK +10 poin score=3040
+--> [1]Laisa menjalankan: Auto All Tasks (1 pending)
+[1]Laisa       |13:14:39 | 10-11-2026| [1/1] 4b44a71a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b44a71a-78c3-4626-aff0-265bde643a1d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211997821176136 | proof=https://x.com/laisawilona/status/2120142530323117906
+[1]Laisa       |13:14:39 | 10-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Laisa       |13:14:40 | 10-11-2026| [1/1] 4b44a71a (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"4b44a71a-78c3-4626-aff0-265bde643a1d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2119978211761365 | proof=https://x.com/laisawilona/status/2120142503590630330
 --> [1]Laisa menjalankan: Watch Anime
-[1]Laisa       |13:36:53 | 09-11-2026| watch: semua video sudah completed
+[1]Laisa       |13:14:40 | 10-11-2026| watch: semua video sudah completed
 --> [1]Laisa menjalankan: Read Article
-[1]Laisa       |13:36:55 | 09-11-2026| news: 34/34 artikel selesai dibaca
-[1]Laisa       |13:36:56 | 09-11-2026| mint eligibility: {"userId":"1637471079836053505","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@laisawilona","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt
-[1]Laisa       |13:36:56 | 09-11-2026| news: semua artikel sudah dibaca
+[1]Laisa       |13:14:42 | 10-11-2026| news: 34/34 artikel selesai dibaca
+[1]Laisa       |13:14:43 | 10-11-2026| mint eligibility: {"userId":"1637471079836053505","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@laisawilona","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt
+[1]Laisa       |13:14:43 | 10-11-2026| news: semua artikel sudah dibaca
 --> [1]Laisa menjalankan: Quiz Anime
 --> [1]Laisa menjalankan: Music Missions (realtime, bisa lama!)
-[1]Laisa       |13:36:58 | 09-11-2026| music: kedua misi sudah tercapai, stop
-[1]Laisa       |13:36:58 | 09-11-2026| mission music-listens-10: sudah diklaim
-[1]Laisa       |13:36:58 | 09-11-2026| mission music-minutes-30: sudah diklaim
-[1]Laisa       |13:36:58 | 09-11-2026| mission anime-completed-3: sudah diklaim
+[1]Laisa       |13:14:45 | 10-11-2026| music: kedua misi sudah tercapai, stop
+[1]Laisa       |13:14:45 | 10-11-2026| mission music-listens-10: sudah diklaim
+[1]Laisa       |13:14:45 | 10-11-2026| mission music-minutes-30: sudah diklaim
+[1]Laisa       |13:14:45 | 10-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Laisa menjalankan: Claim Missions
-[1]Laisa       |13:36:58 | 09-11-2026| mission music-listens-10: sudah diklaim
-[1]Laisa       |13:36:58 | 09-11-2026| mission music-minutes-30: sudah diklaim
-[1]Laisa       |13:36:58 | 09-11-2026| mission anime-completed-3: sudah diklaim
+[1]Laisa       |13:14:46 | 10-11-2026| mission music-listens-10: sudah diklaim
+[1]Laisa       |13:14:46 | 10-11-2026| mission music-minutes-30: sudah diklaim
+[1]Laisa       |13:14:46 | 10-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Laisa menjalankan: Check Eligibility
 
 --- eligibility [1]Laisa ---
-  @laisawilona | score=3000 rank=2596
-  tasks    [##########----------] 2/4
+  @laisawilona | score=3030 rank=2569
+  tasks    [##########----------] 1/2
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -53,17 +51,17 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Laisa menjalankan: Read Manga
-[1]Laisa       |13:37:02 | 09-11-2026| manga: 0/13 chapter belum completed
+[1]Laisa       |13:14:49 | 10-11-2026| manga: 0/13 chapter belum completed
 --> [1]Laisa menjalankan: Get Gift
-[1]Laisa       |13:37:03 | 09-11-2026| gift: 3/10 belum diterima
-[1]Laisa       |13:37:04 | 09-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Laisa       |13:37:06 | 09-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Laisa       |13:37:09 | 09-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Laisa       |13:14:51 | 10-11-2026| gift: 3/10 belum diterima
+[1]Laisa       |13:14:52 | 10-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Laisa       |13:14:54 | 10-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Laisa       |13:14:57 | 10-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
 --> [1]Laisa menjalankan: Setup Profile
-[1]Laisa       |13:37:12 | 09-11-2026| profile: bio="https://x.com/laisawilona" fav=yuki rewardAt=1791682152
-[1]Laisa       |13:37:12 | 09-11-2026| profile: bonus sudah diklaim, skip
+[1]Laisa       |13:14:59 | 10-11-2026| profile: bio="https://x.com/laisawilona" fav=yuki rewardAt=1791682152
+[1]Laisa       |13:14:59 | 10-11-2026| profile: bonus sudah diklaim, skip
 --> [1]Laisa menjalankan: Bind Wallet
-[1]Laisa       |13:37:13 | 09-11-2026| wallet: sudah terikat Ed1RubDvTq... (solana)
+[1]Laisa       |13:15:00 | 10-11-2026| wallet: sudah terikat Ed1RubDvTq... (solana)
 
 == RINGKASAN ==
-- Laisa: daily=claimed | tasks OK 3/3 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/10 diterima | profile - | wallet bound | mint req=false open=false
+- Laisa: daily=claimed | tasks OK 2/2 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/10 diterima | profile - | wallet bound | mint req=false open=false
